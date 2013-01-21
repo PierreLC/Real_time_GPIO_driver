@@ -12,7 +12,7 @@ in order to provide a pervasive, interface-agnostic, hard real-time support to u
 applications, seamlessly integrated into the GNU/Linux environment." 
 (source: www.xenomai.org). 
 The Real Time Driver Model (RTDM) is Xenomai interface for real time device drivers.   
-This module aims to demonstrate how to use RTDM with GPIO. 
+This module aims to demonstrate how to use RTDM for GPIOs. 
 It is tested on a ARM developement platform embedding a minimal Linux-Xenomai system. 
 A RS-232 to USB cable allows to controle the board from the development computer. 
 The module is build using a cross-toolchaine created with Buildroot. 
